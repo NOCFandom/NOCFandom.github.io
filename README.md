@@ -29,4 +29,5 @@
 <hr>
 <h2><b>Word</b></h2>
 <b><i>&lt;No Data.&gt;</i></b>
+<b>NOC/Fandom</b>&#8482;
 </div>
