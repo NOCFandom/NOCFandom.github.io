@@ -1,4 +1,7 @@
-<div style="background-color:#CDCDCD; padding:27px; border: 2px solid #000000;">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200..900&display=swap');
+</style>
+<div style="background-color:#CDCDCD; padding:27px; border: 2px solid #000000; font-family: 'Noto Serif SC';">
 
   <h1>1. 简介</h1>
   <br>
