@@ -3,6 +3,10 @@
   # 简介
 这里是NOC/Fandom（[***Qrazinocworld.fandom.com/zh/***](http://qrazinocworld.fandom.com/zh/) ）的外部储存库，用于**远程加载由于大小等原因无法上传至本地的文件**。
 
+## Github
+- **原仓库：** [**点击这里跳转**](https://github.com/NOCFandom/NOCFandom.github.io/)
+- **CDN网站：**[**点击跳转**](https://nocfandom.github.io/)
+
 ----
 # 文件列表
 *这里列出了所有本站已拥有的文件，可以用于远程加载*
