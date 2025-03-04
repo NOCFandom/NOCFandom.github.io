@@ -32,5 +32,5 @@
 <br>
 <hr>
 <!-- 这是商标，别搞 -->
-<b>NOC/Fandom</b>&#8482;
+<p style="color:#D3D3D3"><small><b>NOC/Fandom</b>&#8482;</small></p>
 </div>
