@@ -1,7 +1,7 @@
 <div style="background-color:#CDCDCD; padding:27px; border: 2px solid #000000;">
 
   <h1>1. 简介</h1>
-这里是NOC/Fandom（<a href="Qrazinocworld.fandom.com/zh/">Qrazinocworld Wiki</a>）的外部储存库，用于<b>远程加载由于大小等原因无法上传至本地的文件</b>。
+这里是NOC/Fandom（ <a href="https://qrazinocworld.fandom.com/zh/">Qrazinocworld Wiki</a> ）的外部储存库，用于<b>远程加载由于大小等原因无法上传至本地的文件</b>。
 <br>
 <h2><b> Github</b></h2>
 <br>
